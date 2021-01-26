@@ -1,0 +1,3 @@
+include ':storytablayout'
+include ':app'
+rootProject.name = "CustomViewPagerApp"
